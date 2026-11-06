@@ -1,0 +1,1 @@
+select * from delta.`/Volumes/databricksgovi/bronze/jobvolume/raw/sales/`

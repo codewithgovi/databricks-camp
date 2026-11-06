@@ -1,0 +1,1 @@
+SELECT * from databricksgovi.bronze.lookup_table
